@@ -1,0 +1,6 @@
+{
+  "name": "Borkha House Modest Fashion Hub",
+  "description": "A highly responsive Bangladesh Borkha House modest boutique brand with a robust, secure full-stack admin dashboard featuring inventory management, live analytics graphs, automatic backups, 2FA, data export, and complete brand layout customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
